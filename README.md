@@ -5,6 +5,7 @@ I am Physicist since 2018 and have been a self-taught programmer since I first d
 ##  More about at
 
 [![Twitter](https://img.shields.io/badge/Twitter-@JimenezArias95-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JimenezArias95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jjarias951230-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jjarias951230/)
 
 <!--
 **JJArias95/JJArias95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
