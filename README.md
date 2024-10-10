@@ -1,6 +1,6 @@
-# Hi, my name is Jesús 👋
+# Hi, my name is Jesús and I am physicist 👋
 
-I am Physicist since 2018 and have been a self-taught programmer since I first discovered the world of technology. I've done multiple projects in different programming languages ​​privately. Now that I know Github and its power to reach more people, I decided to start uploading everything I've done in these years publicly. 
+I have been a self-taught programmer since I first discovered the world of technology. I've done multiple projects in different programming languages ​​privately. Now that I know Github and its power to reach more people, I decided to start uploading everything I've done in these years publicly. 
 
 ##  Programming languages
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
