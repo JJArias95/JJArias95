@@ -2,6 +2,10 @@
 
 I am Physicist since 2018 and have been a self-taught programmer since I first discovered the world of technology. I've done multiple projects in different programming languages ​​privately. Now that I know Github and its power to reach more people, I decided to start uploading everything I've done in these years publicly. The software programming languages ​​I know are C++, Python, Fortran and Mathematica, and the hardware language is Verilog.
 
+##  More about at
+
+[![Twitter](https://img.shields.io/badge/Twitter-@JimenezArias95-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JimenezArias95)
+
 <!--
 **JJArias95/JJArias95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
