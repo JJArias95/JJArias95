@@ -1,4 +1,4 @@
-# Hi, my name is Jesús and I am physicist 👋
+# Hi, my name is Jesús and I am a physicist 👋 ⚛️
 
 I have been a self-taught programmer since I first discovered the world of technology. I've done multiple projects in different programming languages ​​privately. Now that I know Github and its power to reach more people, I decided to start uploading everything I've done in these years publicly. 
 
